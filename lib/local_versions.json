@@ -1,0 +1,26 @@
+{
+    "Sauce Connect": {
+        "download_url": "https://docs.saucelabs.com/secure-connections/sauce-connect/installation/",
+        "linux": {
+            "build": "b491a8aaea43d70ef6cb1f37a11191de01fa8446",
+            "download_url": "https://saucelabs.com/downloads/sauce-connect/5.2.2/sauce-connect-5.2.2_linux.x86_64.tar.gz",
+            "sha1": "2724245e9eff8eb81610a34f1d4c3f7b15dce67aa37a31d6b32dc888427982a5"
+        },
+        "linux-arm64": {
+            "build": "b491a8aaea43d70ef6cb1f37a11191de01fa8446",
+            "download_url": "https://saucelabs.com/downloads/sauce-connect/5.2.2/sauce-connect-5.2.2_linux.aarch64.tar.gz",
+            "sha1": "f04663aa2778febda9f23671422235c752320c55c7c160db9823955dd9e69a0b"
+        },
+        "osx": {
+            "build": "55cc68ffd9a2891e9b717ed459b1d0e970555f9c",
+            "download_url": "https://saucelabs.com/downloads/sauce-connect/5.2.2/sauce-connect-5.2.2_darwin.all.zip",
+            "sha1": "1384bb85b2d29d177933fc8e894c8f6ac60d83b666435d12e9fca7f50b350459"
+        },
+        "version": "5.2.2",
+        "win32": {
+            "build": "b491a8aaea43d70ef6cb1f37a11191de01fa8446",
+            "download_url": "https://saucelabs.com/downloads/sauce-connect/5.2.2/sauce-connect-5.2.2_windows.x86_64.zip",
+            "sha1": "fb932db5af5c4ed3dbdae9c939ae77da5d9440a3b0de60701643518af7b53ff1"
+        }
+    }
+}
